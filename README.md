@@ -19,7 +19,7 @@ class RithikSai:
     location    = "Coimbatore, Tamil Nadu, India"
     degree      = "B.Tech — Computer & Communication Engineering"
     university  = "Amrita Vishwa Vidyapeetham"
-    year        = "2nd Year (3rd Semester) | Batch 2024–2028"
+    year        = "3rd Year (5rd Semester) | Batch 2024–2028"
 
     stack = [
         "Networking",
